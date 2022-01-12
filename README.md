@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: developer@harmonyskull.codes
 - ⚡ Fun fact: I’m quite obsessive about keeping my code clean and well organized.
 
-[//]: # (- 🤔 I’m looking for help with ...)
-
+[//]: # '- 🤔 I’m looking for help with ...'
