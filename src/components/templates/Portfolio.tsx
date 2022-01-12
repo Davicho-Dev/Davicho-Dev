@@ -9,7 +9,9 @@ export const PortfolioTemplate: FC<TemplatesInterface> = ({ children, title }) =
 			<Head>
 				<title>HarmonySkullCodes{title && `: ${title}`}</title>
 			</Head>
-			<main className={'bg-slate-800'}>{children}</main>
+			<main className={'w-screen h-screen bg-slate-800 grid justify-center content-center'}>
+				{children}
+			</main>
 		</>
 	)
 }
