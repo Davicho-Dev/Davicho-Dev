@@ -8803,6 +8803,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"gsap@npm:^3.9.1":
+  version: 3.9.1
+  resolution: "gsap@npm:3.9.1"
+  checksum: 4ea20b134bb00419286842f6e57ea7cb132b5b738d2aca2eecd6f423804ca3a4ac531c76aee63aad9d8b40a0f16e6a50b78bc201fd53f5fa3ca18be51b89f6bb
+  languageName: node
+  linkType: hard
+
 "gzip-size@npm:5.1.1":
   version: 5.1.1
   resolution: "gzip-size@npm:5.1.1"
@@ -8861,6 +8868,7 @@ __metadata:
     eslint-plugin-prettier: ^4.0.0
     eslint-plugin-react: ^7.28.0
     eslint-plugin-storybook: ^0.5.5
+    gsap: ^3.9.1
     next: 12.0.7
     postcss: ^8
     prettier: 2.5.1
