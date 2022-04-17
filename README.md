@@ -19,19 +19,19 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=harmonyskull&show_icons=true&theme=dark&title_color=b4b4b4&text_color=b4b4b4&hide_border=true&locale=en" alt="harmonyskull" />
 </p>
 
-[//]: # (<p>)
+[//]: # '<p>'
 
-[//]: # (    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmonyskull&theme=dark" alt="harmonyskull" />)
+[//]: # '    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmonyskull&theme=dark" alt="harmonyskull" />'
 
-[//]: # (</p>)
+[//]: # '</p>'
 
-[//]: # (### Blogs posts)
+[//]: # '### Blogs posts'
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<article align="left">
+<h3>Connect with me:</h3>
+<article>
     <a href="https://dev.to/harmonyskull" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harmonyskull" height="30" width="40" />
     </a>
@@ -50,19 +50,19 @@
     <a href="https://medium.com/@harmonyskull" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harmonyskull" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/harmonyskull" target="blank">
+    <a href="https://hackerrank.com/harmonyskull" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harmonyskull" height="30" width="40" />
     </a>
     <a href="https://discord.gg/HarmonySkull#1908" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HarmonySkull#1908" height="30" width="40" />
     </a>
-    <a href="/harmonyskull.codes/blog" target="blank">
+    <a href="https://harmonyskull.codes/blog" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="harmonyskull.codes/blog" height="30" width="40" />
     </a>
 </article>
 
-<h3 align="left">Languages and Tools:</h3>
-<article align="left">
+<h3>Languages and Tools:</h3>
+<article>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
@@ -197,10 +197,10 @@
     </a>
 </article>
 
-<p align="left">
+<p>
     <a href="https://twitter.com/harmonyskullcds" target="blank">
         <img src="https://img.shields.io/twitter/follow/harmonyskullcds?logo=twitter&style=for-the-badge" alt="harmonyskullcds" />
     </a>
 </p>
 
-[//]: # (<p align="left"><img src="https://komarev.com/ghpvc/?username=harmonyskull&label=Profile%20views&color=0e75b6&style=flat" alt="harmonyskull" /></p>)
+[//]: # '<p align="left"><img src="https://komarev.com/ghpvc/?username=harmonyskull&label=Profile%20views&color=0e75b6&style=flat" alt="harmonyskull" /></p>'

@@ -1,13 +1,8 @@
 import type { NextPage } from 'next'
-
+import { faGithubSquare, faLinkedin, faTwitterSquare } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 import { PortfolioTemplate } from '../src/components/templates/Portfolio'
-import {
-	faFacebookSquare,
-	faGithubSquare,
-	faLinkedin,
-	faTwitterSquare,
-} from '@fortawesome/free-brands-svg-icons'
 
 const Home: NextPage = () => {
 	return (
@@ -19,16 +14,16 @@ const Home: NextPage = () => {
 				Thank you for being patient. We are doing some work on the site and will be back shortly.
 			</p>
 			<nav className={'grid grid-flow-col justify-center gap-3.5'}>
-				<a href='#'>
-					<FontAwesomeIcon className={'text-white text-4xl'} icon={faFacebookSquare} />
-				</a>
-				<a href='#'>
+				{/*<a href={'https://facebook.com/'}>*/}
+				{/*	<FontAwesomeIcon className={'text-white text-4xl'} icon={faFacebookSquare} />*/}
+				{/*</a>*/}
+				<a href={'https://twitter.com/HarmonySkullCds'}>
 					<FontAwesomeIcon className={'text-white text-4xl'} icon={faTwitterSquare} />
 				</a>
-				<a href='#'>
+				<a href={'https://www.linkedin.com/in/harmonyskull/'}>
 					<FontAwesomeIcon className={'text-white text-4xl'} icon={faLinkedin} />
 				</a>
-				<a href='#'>
+				<a href={'https://github.com/HarmonySkull'}>
 					<FontAwesomeIcon className={'text-white text-4xl'} icon={faGithubSquare} />
 				</a>
 			</nav>
