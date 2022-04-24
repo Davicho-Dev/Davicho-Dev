@@ -1,8 +1,6 @@
 import type { NextPage } from 'next'
-import { faGithubSquare, faLinkedin, faTwitterSquare } from '@fortawesome/free-brands-svg-icons'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
-import { PortfolioTemplate } from '../src/components/templates/Portfolio'
+// import Image from 'next/image'
 
 const Home: NextPage = () => {
 	return (

@@ -21,7 +21,11 @@
 		"sourceType": "module",
 		"ecmaVersion": "latest"
 	},
-	"plugins": ["react", "cypress", "@typescript-eslint"],
+	"plugins": [
+		"react",
+		"cypress",
+		"@typescript-eslint"
+	],
 	"rules": {
 		"prettier/prettier": [
 			"error",
@@ -36,6 +40,8 @@
 		"cypress/no-pause": "error",
 		"cypress/no-async-tests": "error",
 		"react/react-in-jsx-scope": "off",
+		"import/no-anonymous-default-export": 0,
+		"@typescript-eslint/no-var-requires": 0,
 		"cypress/no-unnecessary-waiting": "error",
 		"cypress/no-assigning-return-values": "error",
 		"cypress/assertion-before-screenshot": "warn"

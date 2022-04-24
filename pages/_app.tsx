@@ -1,9 +1,15 @@
-import type { AppProps } from 'next/app'
+import { config } from '@fortawesome/fontawesome-svg-core'
 
-import '../src/styles/globals.css'
+import { AppProps } from 'next/app'
 
-function MyApp({ Component, pageProps }: AppProps) {
+import '@fortawesome/fontawesome-svg-core/styles.css'
+import 'react-toastify/dist/ReactToastify.min.css'
+import '../src/styles/globals.sass'
+
+config.autoAddCss = false
+
+const App = ({ Component, pageProps }: AppProps) => {
 	return <Component {...pageProps} />
 }
 
-export default MyApp
+export default App
