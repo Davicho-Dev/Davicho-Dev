@@ -1,40 +1,3 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-
-# testing
-/coverage
-
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
-.DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# local env files
-.env*.local
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
 ### VisualStudioCode template
 .vscode/*
 !.vscode/settings.json
@@ -147,6 +110,7 @@ $RECYCLE.BIN/
 
 ### macOS template
 # General
+.DS_Store
 .AppleDouble
 .LSOverride
 
@@ -176,6 +140,9 @@ Temporary Items
 # Logs
 logs
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
@@ -217,6 +184,7 @@ jspm_packages/
 web_modules/
 
 # TypeScript cache
+*.tsbuildinfo
 
 # Optional npm cache directory
 .npm
