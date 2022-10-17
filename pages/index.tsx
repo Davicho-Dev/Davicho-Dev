@@ -24,7 +24,7 @@ const Home: NextPage = () => {
 			<Typography variant='body1' textAlign='center'>
 				Thank you for being patient. We are doing some work on the site and will be back shortly.
 			</Typography>
-			<Container sx={{ display: 'flex', justifyContent: 'space-evenly' }}>
+			<Container sx={{ display: 'flex', justifyContent: 'center', columnGap: '4rem' }}>
 				<IconButton href='https://twitter.com/DavichoDev' aria-label='Twitter'>
 					<TwitterIcon />
 				</IconButton>
