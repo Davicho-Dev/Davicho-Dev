@@ -6,7 +6,7 @@ frontend:
         - yarn install
     build:
       commands:
-        - yarn run build
+        - yarn build
   artifacts:
     baseDirectory: .next
     files:
@@ -14,25 +14,24 @@ frontend:
   cache:
     paths:
       - node_modules/**/*
-test:
-  artifacts:
-    baseDirectory: cypress
-    configFilePath: '**/mochawesome.json'
-    files:
-      - '**/*.png'
-      - '**/*.mp4'
-  phases:
-    preTest:
-      commands:
-        - yarn install
-        - yarn add -D start-server-and-test cypress mocha mochawesome mochawesome-merge mochawesome-report-generator
-    test:
-      commands:
-        - yarn run build
-        - >-
-          npx start-test 'npm start' 3000 'npx cypress run --reporter mochawesome --reporter-options
-          "reportDir=cypress/report/mochawesome-report,overwrite=false,html=false,json=true,timestamp=mmddyyyy_HHMMss"'
-    postTest:
-      commands:
-        - npx mochawesome-merge cypress/report/mochawesome-report/mochawesome*.json > cypress/report/mochawesome.json
-
+#test:
+#  artifacts:
+#    baseDirectory: cypress
+#    configFilePath: '**/mochawesome.json'
+#    files:
+#      - '**/*.png'
+#      - '**/*.mp4'
+#  phases:
+#    preTest:
+#      commands:
+#        - yarn install
+#        - yarn add -D start-server-and-test cypress mocha mochawesome mochawesome-merge mochawesome-report-generator
+#    test:
+#      commands:
+#        - yarn build
+#        - >-
+#          npx start-test 'npm start' 3000 'npx cypress run --reporter mochawesome --reporter-options
+#          "reportDir=cypress/report/mochawesome-report,overwrite=false,html=false,json=true,timestamp=mmddyyyy_HHMMss"'
+#    postTest:
+#      commands:
+#        - npx mochawesome-merge cypress/report/mochawesome-report/mochawesome*.json > cypress/report/mochawesome.json

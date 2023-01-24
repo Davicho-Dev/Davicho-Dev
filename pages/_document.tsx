@@ -1,8 +1,8 @@
 import { Head, Html, Main, NextScript } from 'next/document'
 
-const Document = () => {
+const MyDocument = () => {
 	return (
-		<Html lang={'en'} className={'light'}>
+		<Html lang={'en'}>
 			<Head>
 				<link
 					rel='stylesheet'
@@ -17,4 +17,4 @@ const Document = () => {
 	)
 }
 
-export default Document
+export default MyDocument

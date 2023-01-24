@@ -2,26 +2,26 @@
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=harmonyskull" alt="harmonyskull" />
+        <img src="https://github-profile-trophy.vercel.app/?username=davicho-dev" alt="davicho-dev" />
     </a>
 </p>
 
 - 🔭 I’m currently working on **The Mad Fox**
 - 🌱 I’m currently learning **Redux Toolkit, Python, AWS, Micro-Frontends**
-- 👨‍💻 All of my projects are available at [Personal Site](https://harmonyskull.codes)
-- 📝 I regularly write articles on [Blog](https://harmonyskull.codes/blog)
+- 👨‍💻 All of my projects are available at [Personal Site](https://davicho.dev)
+- 📝 I regularly write articles on [Blog](https://davicho.dev/blog)
 - 💬 Ask me about **React, NextJs, Cypress, Flutter, TailwindCSS, Storybook, GSAP**
-- 📫 How to reach me **developer@harmonyskull.codes**
-- 📄 Know about my experiences [Resume](https://harmonyskull.codes/resume.pdf)
+- 📫 How to reach me **developer@davicho.dev**
+- 📄 Know about my experiences [Resume](https://davicho.dev/resume.pdf)
 - ⚡ Fun fact **I’m quite obsessive about keeping my code clean and well organized.**
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harmonyskull&show_icons=true&theme=dark&title_color=b4b4b4&text_color=b4b4b4&hide_border=true&locale=en" alt="harmonyskull" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davicho-dev&show_icons=true&theme=dark&title_color=b4b4b4&text_color=b4b4b4&hide_border=true&locale=en" alt="davicho-dev" />
 </p>
 
 [//]: # '<p>'
 
-[//]: # '    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmonyskull&theme=dark" alt="harmonyskull" />'
+[//]: # '    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davicho-dev&theme=dark" alt="davicho-dev" />'
 
 [//]: # '</p>'
 
@@ -32,32 +32,32 @@
 
 <h3>Connect with me:</h3>
 <article>
-    <a href="https://dev.to/harmonyskull" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harmonyskull" height="30" width="40" />
+    <a href="https://dev.to/davichodev" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="davichodev" height="30" width="40" />
     </a>
-    <a href="https://twitter.com/harmonyskullcds" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harmonyskullcds" height="30" width="40" />
+    <a href="https://twitter.com/DavichoDev" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DavichoDev" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/harmonyskull" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harmonyskull" height="30" width="40" />
+    <a href="https://linkedin.com/in/davichodev" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davichodev" height="30" width="40" />
     </a>
     <a href="https://stackoverflow.com/users/11783373" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11783373" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/harmonyskull" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harmonyskull" height="30" width="40" />
+    <a href="https://instagram.com/davichodev" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davichodev" height="30" width="40" />
     </a>
-    <a href="https://medium.com/@harmonyskull" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harmonyskull" height="30" width="40" />
+    <a href="https://medium.com/@davichodev" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davichodev" height="30" width="40" />
     </a>
-    <a href="https://hackerrank.com/harmonyskull" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harmonyskull" height="30" width="40" />
+    <a href="https://hackerrank.com/DavichoDev" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="DavichoDev" height="30" width="40" />
     </a>
-    <a href="https://discord.gg/HarmonySkull#1908" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HarmonySkull#1908" height="30" width="40" />
+    <a href="https://discord.gg/DavichoDev#1908" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DavichoDev#1908" height="30" width="40" />
     </a>
-    <a href="https://harmonyskull.codes/blog" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="harmonyskull.codes/blog" height="30" width="40" />
+    <a href="https://davicho.dev/blog" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="davicho.dev/blog" height="30" width="40" />
     </a>
 </article>
 
@@ -198,9 +198,9 @@
 </article>
 
 <p>
-    <a href="https://twitter.com/harmonyskullcds" target="blank">
-        <img src="https://img.shields.io/twitter/follow/harmonyskullcds?logo=twitter&style=for-the-badge" alt="harmonyskullcds" />
+    <a href="https://twitter.com/DavichoDev" target="blank">
+        <img src="https://img.shields.io/twitter/follow/DavichoDev?logo=twitter&style=for-the-badge" alt="DavichoDev" />
     </a>
 </p>
 
-[//]: # '<p align="left"><img src="https://komarev.com/ghpvc/?username=harmonyskull&label=Profile%20views&color=0e75b6&style=flat" alt="harmonyskull" /></p>'
+[//]: # '<p align="left"><img src="https://komarev.com/ghpvc/?username=DavichoDev&label=Profile%20views&color=0e75b6&style=flat" alt="DavichoDev" /></p>'

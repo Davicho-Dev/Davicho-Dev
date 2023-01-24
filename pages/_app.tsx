@@ -1,15 +1,12 @@
-import { config } from '@fortawesome/fontawesome-svg-core'
+import type { AppProps } from 'next/app'
+import { CssBaseline, ThemeProvider } from '@mui/material'
+import { darkTheme } from '../src/assets'
 
-import { AppProps } from 'next/app'
+const MyApp = ({ Component, pageProps }: AppProps) => (
+	<ThemeProvider theme={darkTheme}>
+		<CssBaseline />
+		<Component {...pageProps} />
+	</ThemeProvider>
+)
 
-import '@fortawesome/fontawesome-svg-core/styles.css'
-import 'react-toastify/dist/ReactToastify.min.css'
-import '../src/styles/globals.sass'
-
-config.autoAddCss = false
-
-const App = ({ Component, pageProps }: AppProps) => {
-	return <Component {...pageProps} />
-}
-
-export default App
+export default MyApp
