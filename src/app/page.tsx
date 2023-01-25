@@ -26,14 +26,6 @@ const HomePage = () => {
 
 			<div>
 				<Logo src='/next.svg' alt='Logo' />
-				{/*<Image*/}
-				{/*
-				{/*	src='/next.svg'*/}
-				{/*	alt='Next.js Logo'*/}
-				{/*	width={180}*/}
-				{/*	height={37}*/}
-				{/*	priority*/}
-				{/*/>*/}
 				<div>
 					<Image src='/thirteen.svg' alt='13' width={40} height={31} priority />
 				</div>
