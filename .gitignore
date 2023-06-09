@@ -334,3 +334,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
+# Sentry
+.sentryclirc
+
+# Sentry
+next.config.original.js
