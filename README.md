@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [Personal Site](https://davicho.dev)
 - 📝 I regularly write articles on [Blog](https://davicho.dev/blog)
 - 💬 Ask me about **React, NextJs, Cypress, Flutter, TailwindCSS, Storybook, GSAP**
-- 📫 How to reach me **developer@davicho.dev**
+- 📫 How to reach me **hello@davicho.dev**
 - 📄 Know about my experiences [Resume](https://davicho.dev/resume.pdf)
 - ⚡ Fun fact **I’m quite obsessive about keeping my code clean and well organized.**
 
@@ -20,11 +20,8 @@
 </p>
 
 [//]: # '<p>'
-
 [//]: # '    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davicho-dev&theme=dark" alt="davicho-dev" />'
-
 [//]: # '</p>'
-
 [//]: # '### Blogs posts'
 
 <!-- BLOG-POST-LIST:START -->
