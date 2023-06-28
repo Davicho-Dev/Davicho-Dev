@@ -9,7 +9,10 @@
 		"start": "next start",
 		"lint": "next lint",
 		"prepare": "husky install",
-		"cypress:open": "cypress open"
+		"component:run": "cypress run --component",
+		"component:open": "cypress open --component",
+		"e2e:run": "cypress run --e2e",
+		"e2e:open": "cypress open --e2e"
 	},
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.2.1",
