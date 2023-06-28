@@ -2,13 +2,11 @@ env:
   browser: true
   es2021: true
   node: true
-  jest/globals: true
   cypress/globals: true
 extends:
   - prettier/prettier
   - eslint:recommended
   - next/core-web-vitals
-  - plugin:jest/recommended
   - plugin:react/recommended
   - plugin:cypress/recommended
   - plugin:prettier/recommended
