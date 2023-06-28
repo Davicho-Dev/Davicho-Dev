@@ -14,25 +14,25 @@
 		"isolatedModules": true,
 		"jsx": "preserve",
 		"incremental": true,
-		"types": ["node", "jest", "cypress"],
+		"types": ["node", "cypress"],
 		"plugins": [
 			{
 				"name": "next"
 			}
 		],
-		"baseUrl": "./src",
+		"baseUrl": ".",
 		"paths": {
-			"@atoms": ["components/atoms/index.ts"],
-			"@molecules": ["components/molecules/index.ts"],
-			"@organisms": ["components/organisms/index.ts"],
-			"@constants": ["constants/index.ts"],
-			"@helpers": ["helpers/index.ts"],
-			"@hooks": ["hooks/index.ts"],
-			"@interfaces": ["interfaces/index.ts"],
-			"@store": ["store/index.ts"],
-			"@types": ["types/index.ts"],
-			"@utils": ["utils/index.ts"],
-			"@styles/*": ["styles/*"]
+			"@assets": ["src/assets/index.ts"],
+			"@atoms": ["src/components/atoms/index.ts"],
+			"@molecules": ["src/components/molecules/index.ts"],
+			"@organisms": ["src/components/organisms/index.ts"],
+			"@constants": ["src/constants/index.ts"],
+			"@helpers": ["src/helpers/index.ts"],
+			"@hooks": ["src/hooks/index.ts"],
+			"@interfaces": ["src/interfaces/index.ts"],
+			"@styles/": ["src/styles/"],
+			"@store": ["src/store/index.ts"],
+			"@utils": ["src/utils/index.ts"]
 		}
 	},
 	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
