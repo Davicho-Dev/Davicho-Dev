@@ -13,10 +13,10 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
 	return (
 		<html lang='en'>
 			<body>{children}</body>
-			
+
 			<Analytics />
 		</html>
-)
+	)
 }
 
 export default RootLayout
