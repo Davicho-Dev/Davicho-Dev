@@ -1,32 +1,15 @@
-<h1 align="center">Hi 👋, I'm David Gavilanez</h1>
+<h2 align="left">Hi 👋! My name is David and I'm a FullStack Dev, from Ecuador</h2>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=davicho-dev" alt="davicho-dev" />
-    </a>
-</p>
+###
 
-- 🔭 I’m currently working on **The Mad Fox**
-- 🌱 I’m currently learning **Redux Toolkit, Python, AWS, Micro-Frontends**
+- 🔭 I’m currently working on **SweetDreams e-Commerce Site**
+- 🌱 I’m currently learning **Flask, Spring Boot, AWS, Micro-Frontends**
 - 👨‍💻 All of my projects are available at [Personal Site](https://davicho.dev)
 - 📝 I regularly write articles on [Blog](https://davicho.dev/blog)
-- 💬 Ask me about **React, NextJs, Cypress, Flutter, TailwindCSS, Storybook, GSAP**
+- 💬 Ask me about **React, NextJs, Cypress, Flutter, TailwindCSS, GSAP**
 - 📫 How to reach me **hello@davicho.dev**
 - 📄 Know about my experiences [Resume](https://davicho.dev/resume.pdf)
 - ⚡ Fun fact **I’m quite obsessive about keeping my code clean and well organized.**
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davicho-dev&show_icons=true&theme=dark&title_color=b4b4b4&text_color=b4b4b4&hide_border=true&locale=en" alt="davicho-dev" />
-</p>
-
-[//]: # '<p>'
-[//]: # '    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davicho-dev&theme=dark" alt="davicho-dev" />'
-[//]: # '</p>'
-[//]: # '### Blogs posts'
-
-<!-- BLOG-POST-LIST:START -->
-
-<h2 align="left">Hi 👋! My name is David and I'm a FullStack Dev, from Ecuador</h2>
 
 ###
 
@@ -165,23 +148,25 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-</div>
 
-###
+[//]: # (  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />)
+[//]: # (  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />)
+[//]: # (<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />)
+[//]: # (  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />)
+[//]: # (  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />)
+[//]: # (  <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />)
+[//]: # (  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />)
+[//]: # (  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />)
+<a href="https://www.twitch.tv/davicho_dev" target="_blank" title="DavichoDev Twitch">
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+</a>
+<a href="https://twitter.com/DavichoDev" target="_blank" title="DavichoDev Twitter">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</a>
+
+[//]: # (  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />)
+</div>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/davicho-dev/davicho-dev/output/snake.svg" alt="Snake animation" />
-
-###
