@@ -1,5 +1,7 @@
 import { ReactNode } from 'react'
 
+import { Analytics } from '@vercel/analytics/react'
+
 import './globals.css'
 
 export const metadata = {
@@ -11,6 +13,8 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
 	return (
 		<html lang='en'>
 			<body>{children}</body>
+
+			<Analytics />
 		</html>
 	)
 }
