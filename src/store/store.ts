@@ -4,8 +4,8 @@ import { userSlice } from './slices/userSlice'
 
 const RTKStore = configureStore({
 	reducer: {
-		user: userSlice.reducer
-	}
+		user: userSlice.reducer,
+	},
 })
 
 export default RTKStore
