@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Develop" type="js.build_tools.npm">
+    <package-json value="$PROJECT_DIR$/package.json" />
+    <command value="run" />
+    <scripts>
+      <script value="dev" />
+    </scripts>
+    <node-interpreter value="$USER_HOME$/.nvm/versions/node/v22.12.0/bin/node" />
+    <package-manager value="$USER_HOME$/.nvm/versions/node/v22.12.0/lib/node_modules/bun/bin/bun.exe" />
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>
