@@ -8,7 +8,7 @@
 - 📝 I regularly write articles on [Blog](https://davicho.dev/blog)
 - 💬 Ask me about **React, NextJs, Cypress, Flutter, TailwindCSS, GSAP**
 - 📫 How to reach me **hello@davicho.dev**
-- 📄 Know about my experiences [Resume](https://hlkdqozjo8mhlztl.public.blob.vercel-storage.com/resume-iFLZMCSPLVRW6jbJiCCFd402lwMtXd.pdf)
+- 📄 Know about my experiences [Resume](https://prod-davichodev-storage.s3.us-east-1.amazonaws.com/assets/Resume.pdf)
 - ⚡ Fun fact **I’m quite obsessive about keeping my code clean and well organized.**
 
 ###
