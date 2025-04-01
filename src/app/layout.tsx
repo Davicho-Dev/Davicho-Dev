@@ -1,8 +1,24 @@
 import type { ReactNode } from 'react'
 
+import { Inter, Roboto } from 'next/font/google'
+import Image from 'next/image'
+import Link from 'next/link'
+
 import type { Metadata } from 'next'
 
 import './globals.sass'
+
+const robotoSansSerif = Roboto({
+	variable: '--font-roboto',
+	weight: ['100', '300', '400', '500', '700', '900'],
+	subsets: ['latin'],
+})
+
+const interSansSerif = Inter({
+	variable: '--font-inter',
+	weight: ['100', '200', '300', '400', '500', '600', '700', '800', '900'],
+	subsets: ['latin'],
+})
 
 export const metadata = {
 	title: 'DavichoDev',
@@ -43,7 +59,15 @@ export const metadata = {
 const RootLayout = ({ children }: Readonly<{ children: ReactNode }>) => {
 	return (
 		<html lang='en'>
-			<body className={`antialiased`}>{children}</body>
+			<body className={`${robotoSansSerif.variable} ${interSansSerif.className} antialiased bg-white`}>
+				{children}
+				<footer className='bg-black text-white'>
+					<span>© 2025 DavichoDev</span>
+					<aside>
+						<a href='https://github.com/davicho-dev'></a>
+					</aside>
+				</footer>
+			</body>
 		</html>
 	)
 }
