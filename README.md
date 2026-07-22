@@ -15,7 +15,7 @@
   <a href="mailto:hello@davicho.dev" title="Email">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="email badge" />
   </a>
-  <a href="https://davicho.dev/resume.pdf" target="_blank" title="Resume">
+  <a href="https://cdn.davicho.dev/portfolio/resume_en.pdf" target="_blank" title="Resume">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=readdotcv&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="resume badge" />
   </a>
 </div>
